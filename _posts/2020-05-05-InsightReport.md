@@ -6,7 +6,7 @@ categories:
   - AI
 comments_id: 1
 excerpt: >-
-  While xmost of the world focuses on deploying and improving the performance of
+  While most of the world focuses on deploying and improving the performance of
   early 5G networks, there has been a growing interests and efforts to establish
   what 6G networks will bring a decade from now. Among many visionary views, it
   is widely anticipated that AI will be a key component for the future of
