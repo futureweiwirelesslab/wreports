@@ -28,4 +28,4 @@ Surveys like this aim to stimulate open collaboration on early-stage fundamental
 
 References are chosen sparingly; insofar as only essential original contributions are concerned.
 
-Read the full report [**HERE**](https://github.com/futureweiwirelesslab/wreports/attachement/Insight-Report-signal-processing-final.pdf)
+Read the full report [**HERE**](https://github.com/futureweiwirelesslab/wreports/raw/master/attachement/Insight-Report-signal-processing-final.pdf)
