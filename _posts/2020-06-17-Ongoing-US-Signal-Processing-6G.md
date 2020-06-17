@@ -6,7 +6,7 @@ categories:
   - 6G
 comments_id: 1
 excerpt: >-
-Signal processing has been at the core of communication technology. Today it continues to drive technology innovations for 5G and 6G and beyond. This brief survey highlights recent progress on topics in wireless signal processing research, mainly in the areas of communication and sensing. It provides historical context and outlook in connection to Futurewei research efforts where applicable.
+Signal processing has been at the core of communication technology.
 ---
 Signal processing has been at the core of communication technology. Today it continues to drive technology innovations for 5G/6G and beyond.
 
