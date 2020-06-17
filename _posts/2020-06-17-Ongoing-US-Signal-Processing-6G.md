@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI for Intelligent Connectivity
+title: Ongoing US Signal Processing Research Toward 6G
 categories:
   - Insight
   - 6G
