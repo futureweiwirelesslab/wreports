@@ -3,8 +3,8 @@ layout: post
 title: AI for Intelligent Connectivity
 categories:
   - Insight
-  - AI
-comments_id: 2
+  - 6G
+comments_id: 1
 excerpt: >-
   While most of the world focuses on deploying and improving the performance of
   early 5G networks, there has been a growing interests and efforts to establish
