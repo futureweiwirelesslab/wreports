@@ -1,12 +1,8 @@
 ----
 layout: post
 title: AI for Intelligent Connectivity
-categories:
-  - Insight
-  - AI
+categories: [Insight, AI]
 comments_id: 2
-
-published: true
 ---
 Signal processing has been at the core of communication technology. Today it continues to drive technology innovations for 5G/6G and beyond.
 
