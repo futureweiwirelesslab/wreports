@@ -25,4 +25,4 @@ We spotlight the following topics.
 
 References are chosen sparingly; insofar as only essential original contributions are concerned.
 
-Read the full report [HERE] (https://github.com/futureweiwirelesslab/wreports/raw/master/attachement/report.pdf)
+Read the full report [HERE](https://github.com/futureweiwirelesslab/wreports/raw/master/attachement/report.pdf)
