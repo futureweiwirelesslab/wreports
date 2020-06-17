@@ -1,12 +1,20 @@
----
+----
 layout: post
-title: Ongoing US Signal Processing Research Toward 6G
+title: AI for Intelligent Connectivity
 categories:
   - Insight
-  - 6G
-comments_id: 1
+  - AI
+comments_id: 2
 excerpt: >-
-Signal processing has been at the core of communication technology. Today it continues to drive technology innovations for 5G/6G and beyond. This brief survey highlights recent progress on topics in wireless signal processing (SP) research, mainly in the areas of communication and sensing. It provides historical context and outlook in connection to Futurewei research efforts where applicable.
+  While most of the world focuses on deploying and improving the performance of
+  early 5G networks, there has been a growing interests and efforts to establish
+  what 6G networks will bring a decade from now. Among many visionary views, it
+  is widely anticipated that AI will be a key component for the future of
+  communication systems and a key enabler of the intelligent connectivity. On
+  this report we explore the topic of “AI for Intelligent Connectivity”. The
+  report focuses on US initiated academic research, industry initiatives and
+  policies (but not exclusively), as illustrated in the following chart, based
+  on public available information.
 published: true
 ---
 Signal processing has been at the core of communication technology. Today it continues to drive technology innovations for 5G/6G and beyond.
