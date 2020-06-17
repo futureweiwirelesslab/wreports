@@ -5,8 +5,6 @@ categories:
   - Insight
   - 6G
 comments_id: 1
-excerpt:
-Signal processing has been at the core of communication technology.
 ---
 Signal processing has been at the core of communication technology. Today it continues to drive technology innovations for 5G/6G and beyond.
 
