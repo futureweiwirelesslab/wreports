@@ -1,15 +1,8 @@
----
+----
 layout: post
-title: Ongoing US Signal Processing Research Toward 6G
-categories:
-  - Insight
-  - 6G
-comments_id: 1
-excerpt: >-
-Signal processing has been at the core of communication technology. Today it continues to drive technology innovations for 5G/6G and beyond.
-This brief survey highlights recent progress on topics in wireless signal processing (SP) research, mainly in the areas of communication and sensing. It provides historical context and outlook in connection to Futurewei research efforts where applicable.
-
-published: true
+title: AI for Intelligent Connectivity
+categories: [Insight, AI]
+comments_id: 2
 ---
 Signal processing has been at the core of communication technology. Today it continues to drive technology innovations for 5G/6G and beyond.
 
@@ -30,4 +23,4 @@ We spotlight the following topics.
 
 References are chosen sparingly; insofar as only essential original contributions are concerned.
 
-Read the full report [HERE](https://github.com/futureweiwirelesslab/wreports/attachement/Insight Report signal processing-final.pdf)
+Read the full report [HERE](https://github.com/futureweiwirelesslab/wreports/attachement/Insight-Report-signal-processing-final.pdf)
